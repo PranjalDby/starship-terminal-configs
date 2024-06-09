@@ -5,4 +5,8 @@
 
 ### Result 
 
-![](https://github.com/PranjalDby/starship-terminal-configs/blob/main/Screenshot%202024-06-09%20084104.png)
+![result](https://github.com/PranjalDby/starship-terminal-configs/blob/main/Screenshot%202024-06-09%20084104.png)
+
+
+### Config File Found Here
+
